@@ -9,5 +9,5 @@ docker-compose up -d --build --remove-orphans
 ## Stop
 docker-compose down
 
-## Reset (!destructive)
+## Reset (destructive!)
 docker-compose down -v
