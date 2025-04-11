@@ -1,2 +1,2 @@
 # weave-mongo-express specifics
-.env
+/.env*
